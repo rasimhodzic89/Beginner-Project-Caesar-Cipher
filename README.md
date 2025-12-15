@@ -3,7 +3,7 @@
 This is my first Python project using VS Code and GitHub.
 
 # Description
-This is a beginner Python project created to practice core Python concepts such as input/output, variables, and basic logic.
+This is a beginner Python project created to practice core Python concepts such as input/output, variables, and basic logic. I used the website FreeCodeCamp to help me with this project. 
 
 # Features
 - Runs in the terminal
