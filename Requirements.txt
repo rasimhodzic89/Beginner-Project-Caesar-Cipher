@@ -1,0 +1,2 @@
+ No external dependencies
+ This project relies solely on Python's standard library.
